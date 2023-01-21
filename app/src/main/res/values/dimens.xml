@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="standard_45" tools:ignore="MissingDefaultResource">55</dimen>
+    <dimen name="fab_margin">16</dimen>
+    <dimen name="standard_21">12</dimen>
+</resources>
